@@ -1,6 +1,8 @@
 ### 안녕하세요 성장하는 개발자 이준영입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-june-young)](https://hits.seeyoufarm.com)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Jun%20Young%20Lee&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+
 <!--
 **lee-june-young/lee-june-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
