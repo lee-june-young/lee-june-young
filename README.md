@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=lee-june-young&show_icons=true&hide_border=true)](https://github.com/lee-june-young)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-june-young&layout=compact)](https://github.com/lee-june-young)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677)](https://solved.ac/turtlezero)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtlezero)](https://solved.ac/turtlezero)
