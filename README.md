@@ -23,8 +23,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-june-young&layout=compact)](https://github.com/lee-june-young)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtlezero)](https://solved.ac/turtlezero)
 
-- ⚡ Fun fact: “영감님의 영광의 시대는 언제였죠?
-국가대표였을 때 였나요?
-난, 지금입니다.”
-
-- 강백호, 슬램덩크(1993)
+- ⚡: “영감님의 영광의 시대는 언제였죠? 국가대표였을 때 였나요? 난, 지금입니다.” - 강백호, 슬램덩크(1993)
